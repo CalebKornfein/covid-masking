@@ -1,0 +1,20 @@
+Category,P-val,Adj. P-val,P-val (No Missing),Adj. P-val (No Missing)
+Age,0.863,1.000,0.801,1.000
+Gender,0.034,0.653,0.061,1.000
+Race,<.001,<.001,<.001,<.001
+Prior Condition,0.256,1.000,0.253,1.000
+Political Affiliation,<.001,<.001,<.001,<.001
+Has Primary Care Physician,0.83,1.000,0.901,1.000
+Education,0.045,0.854,0.074,1.000
+Housing Status,0.716,1.000,0.826,1.000
+Insurance Status,0.84,1.000,0.728,1.000
+Internet,0.632,1.000,0.632,1.000
+News,0.349,1.000,0.349,1.000
+Health Care Professionals,0.932,1.000,0.932,1.000
+Family or Friends,0.166,1.000,0.166,1.000
+Pamphlets,0.474,1.000,0.474,1.000
+Community Organizations,0.263,1.000,0.263,1.000
+Coworkers or Classmates,0.539,1.000,0.539,1.000
+Government Health Department,0.047,0.887,0.047,0.887
+Other,0.769,1.000,0.769,1.000
+No Information,0.365,1.000,0.365,1.000
