@@ -1,0 +1,652 @@
+Masking,Masking Categories,Age,Gender,Race,Prior Condition,Political Affiliation,Has Primary Care Physician,Education,Housing Status,Insurance Status,Internet,News,Family or Friends,Pamphlets,Community Organizations,Coworkers or Classmates,Health Care Professionals,Government Health Department,Other,No Information,Reason No Access to Masks,Reason Do Not Believe in Efficacy,Reason Ran Out of Masks,Reason Pressured Not to Wear Mask,Reason Makes it Hard to Work,Reason Uncomfortable,Reason Previously Wore But Got Tired,Reason Makes Breathing Difficult,Reason Masks No Longer Recommended,Reason Other
+Majority,Frequent,45-64,Male,Hispanic or Latinx,Missing,No Affiliation,No,High School or Less,Housed,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,No,Democrat,No,High School or Less,Housed,Missing,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Asian,No,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,No,Missing,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,Missing,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Native Hawaiian / Pacific Islander,No,No Affiliation,No,Graduate or Professional Degree,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,No,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Other,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Republican,Yes,Some College,Unhoused,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,No Affiliation,Yes,Graduate or Professional Degree,Unhoused,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Male,African American / Black,No,No Affiliation,Missing,High School or Less,Housed,Missing,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,No,Republican,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Other,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Multiparty,Yes,College Degree,Housed,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,No,Missing,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Multiracial,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Multiracial,Yes,Democrat,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Asian,Yes,No Affiliation,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,Other,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Missing,Yes,Other,No,High School or Less,Housed,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,Other,No,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,Missing,Yes,Missing,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,No,Missing,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,Missing,No,Missing,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,No Affiliation,No,Missing,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,Missing,Multiparty,No,College Degree,Unhoused,Yes,Yes,No,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,Republican,No,High School or Less,Housed,No,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Housed,Missing,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,No,College Degree,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,Missing,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,Missing,No,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Unhoused,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Multiracial,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Middle Eastern,No,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,No,No Affiliation,No,Missing,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,No,College Degree,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,African American / Black,Yes,Other,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,No,Some College,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,No,Some College,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,No,Independent,No,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,Yes,No Affiliation,Yes,High School or Less,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Asian,No,Multiparty,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,No,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Nonbinary,Hispanic or Latinx,No,Missing,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,Yes,Democrat,Yes,High School or Less,Missing,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,Yes,No Affiliation,No,Some College,Housed,Missing,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Republican,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,Multiracial,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,No,College Degree,Housed,Missing,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Missing,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Trans Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Independent,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Female,White Non-Latinx,Yes,Republican,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Missing,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,No,Republican,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,White Non-Latinx,No,Democrat,No,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,No,Independent,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,Hispanic or Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,White Non-Latinx,Yes,Multiparty,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Male,White Non-Latinx,No,Multiparty,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,Yes,Missing,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Democrat,No,Some College,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Native American,No,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Multiracial,Missing,Independent,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,Yes,Republican,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,Missing,Other,Yes,High School or Less,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Independent,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Other,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,84-99,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Native American,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,Yes,Republican,Yes,Some College,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,84-99,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,Yes,Independent,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,No,Missing,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Missing,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Multiracial,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,Missing,No,High School or Less,Unhoused,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Asian,Yes,Independent,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Native American,No,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,No Affiliation,Missing,College Degree,Housed,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,No,Missing,Yes,College Degree,Unhoused,Missing,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,Yes,No Affiliation,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,Independent,No,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,Multiracial,Yes,Republican,Yes,Some College,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,White Non-Latinx,No,Independent,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,White Non-Latinx,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,No,High School or Less,Unhoused,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Missing,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,African American / Black,Missing,No Affiliation,No,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Missing,No,Missing,Unhoused,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,Multiracial,Missing,Republican,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Missing,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Missing,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Other,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Multiracial,No,Other,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,No,Missing,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Native Hawaiian / Pacific Islander,Yes,Independent,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Male,White Non-Latinx,No,Republican,No,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,White Non-Latinx,No,Missing,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,White Non-Latinx,No,No Affiliation,No,College Degree,Housed,Yes,No,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Native Hawaiian / Pacific Islander,Missing,Republican,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,African American / Black,No,No Affiliation,No,Some College,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Native American,Yes,Independent,No,College Degree,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,White Non-Latinx,Yes,No Affiliation,No,Some College,Housed,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,Yes,Missing,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Independent,Yes,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Missing,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Hispanic or Latinx,No,Democrat,No,College Degree,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,No,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Missing,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Missing,Missing,Yes,Some College,Unhoused,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Male,Hispanic or Latinx,No,Missing,Yes,High School or Less,Unhoused,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Asian,No,Missing,Missing,Some College,Housed,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,No,Missing,No,Some College,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Independent,Yes,High School or Less,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Republican,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Republican,Yes,High School or Less,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,No Affiliation,Yes,Some College,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Missing,Multiparty,No,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,No,Democrat,No,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,No,Republican,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Male,African American / Black,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,Missing,Yes,Some College,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Missing,Democrat,No,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,African American / Black,No,Independent,No,High School or Less,Unhoused,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,Republican,No,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,No,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,Yes,Independent,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,Missing,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Multiracial,No,No Affiliation,Missing,High School or Less,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Asian,No,Democrat,Yes,College Degree,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Missing,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Male,White Non-Latinx,No,Republican,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Other,No,Independent,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Independent,Yes,High School or Less,Housed,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,Middle Eastern,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,35-44,Female,White Non-Latinx,No,Missing,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Missing,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Missing,Yes,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Hispanic or Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Other,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,African American / Black,Yes,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,Middle Eastern,No,Independent,No,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Missing,Yes,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,Multiracial,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Native American,Yes,Republican,Yes,Some College,Housed,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,White Non-Latinx,Yes,Missing,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,No,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Missing,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,African American / Black,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,Asian,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Independent,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,84-99,Male,White Non-Latinx,No,Independent,Yes,Some College,Housed,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Female,Multiracial,No,Other,No,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,No Affiliation,No,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,No,No Affiliation,No,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Hispanic or Latinx,Yes,Democrat,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Native Hawaiian / Pacific Islander,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,Missing,No Affiliation,No,High School or Less,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Hispanic or Latinx,Missing,No Affiliation,No,High School or Less,Housed,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Missing,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,Missing,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Other,Yes,College Degree,Housed,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,No Affiliation,No,Some College,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Asian,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,Asian,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Multiracial,Yes,No Affiliation,Yes,High School or Less,Unhoused,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Female,White Non-Latinx,Yes,Missing,No,Some College,Housed,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,Yes,Missing,No,Some College,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,No,College Degree,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Asian,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,Other,Yes,Some College,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Independent,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Other,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,Multiracial,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,No,Democrat,Yes,Some College,Housed,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Multiracial,Yes,Independent,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Republican,Yes,Some College,Housed,Yes,Yes,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Missing,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,Missing,Yes,Missing,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,White Non-Latinx,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Other,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,No,No Affiliation,No,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,No,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,Multiracial,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Asian,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,No,College Degree,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Other,No,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Asian,No,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,No,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Republican,Yes,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,No Affiliation,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Other,No,Republican,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,No,Some College,Housed,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Hispanic or Latinx,Missing,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,Missing,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,No,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Housed,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Other,No,No Affiliation,No,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Republican,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,Hispanic or Latinx,Yes,Missing,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Democrat,No,Some College,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,No,Republican,Yes,Graduate or Professional Degree,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,African American / Black,No,Missing,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,Asian,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,White Non-Latinx,No,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,No,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,White Non-Latinx,No,Independent,No,College Degree,Housed,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Male,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Other,No,No Affiliation,No,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Native American,No,No Affiliation,Yes,High School or Less,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,Missing,Independent,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,No,Independent,No,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,No,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Democrat,No,High School or Less,Unhoused,Missing,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,No,Republican,Yes,Some College,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,No,No,Yes,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Missing,White Non-Latinx,Yes,Other,No,Some College,Unhoused,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,White Non-Latinx,No,Republican,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,Asian,No,Missing,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Native American,Yes,No Affiliation,No,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,Yes,Independent,Yes,Some College,Unhoused,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,Missing,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,No,Independent,No,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Native American,No,No Affiliation,No,High School or Less,Unhoused,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,No,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Other,No,Missing,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,84-99,Male,White Non-Latinx,No,Democrat,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Other,No,Democrat,Missing,Some College,Housed,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Male,White Non-Latinx,Yes,Republican,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,Middle Eastern,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Asian,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Independent,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,African American / Black,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Asian,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,Asian,No,Multiparty,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Housed,Yes,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,84-99,Female,White Non-Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Hispanic or Latinx,No,Democrat,No,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,No,Multiparty,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Missing,Asian,No,Democrat,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Unhoused,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Other,No,Democrat,No,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Other,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Democrat,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Republican,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,No,Other,No,Some College,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,No,College Degree,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,Republican,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Other,Yes,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Hispanic or Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,No Affiliation,Yes,Missing,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Asian,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Nonbinary,White Non-Latinx,No,Multiparty,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,African American / Black,Yes,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,Middle Eastern,No,No Affiliation,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Asian,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,Republican,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Other,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,No,College Degree,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Other,Yes,No Affiliation,No,Some College,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,Missing,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Hispanic or Latinx,Missing,No Affiliation,No,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,Yes,No Affiliation,Missing,High School or Less,Unhoused,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Asian,No,No Affiliation,No,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Other,Yes,High School or Less,Housed,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Other,Missing,Independent,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,White Non-Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Male,White Non-Latinx,No,Democrat,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,No,Democrat,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,No,Missing,No,Some College,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,African American / Black,No,Democrat,No,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,Democrat,No,College Degree,Unhoused,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Missing,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,Asian,No,No Affiliation,No,College Degree,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,No,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Native American,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,No,No Affiliation,No,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,Democrat,Yes,Some College,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Native Hawaiian / Pacific Islander,Yes,No Affiliation,No,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,Yes,College Degree,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,Other,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,No Affiliation,No,High School or Less,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Middle Eastern,No,No Affiliation,Yes,Missing,Housed,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Hispanic or Latinx,No,No Affiliation,No,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Hispanic or Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,No,College Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,No Affiliation,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,No,Democrat,No,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Missing,No Affiliation,No,College Degree,Housed,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,Yes,No Affiliation,No,High School or Less,Unhoused,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Missing,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,No Affiliation,No,High School or Less,Housed,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Male,Hispanic or Latinx,No,No Affiliation,No,College Degree,Unhoused,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Hispanic or Latinx,No,No Affiliation,No,Some College,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,Yes,Other,No,High School or Less,Unhoused,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,Hispanic or Latinx,No,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,No,Some College,Housed,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Asian,Missing,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,Asian,Yes,Missing,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,Graduate or Professional Degree,Unhoused,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,No,Republican,Yes,Some College,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Nonbinary,African American / Black,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,No Affiliation,Yes,Some College,Unhoused,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,No,Missing,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,African American / Black,No,Multiparty,No,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Asian,Yes,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,35-44,Female,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,Native American,Yes,Democrat,No,High School or Less,Housed,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,White Non-Latinx,Yes,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,Yes,Multiparty,Yes,Graduate or Professional Degree,Housed,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,African American / Black,Yes,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,African American / Black,No,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,Other,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Female,White Non-Latinx,Yes,No Affiliation,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,Yes,Independent,Yes,College Degree,Housed,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,No,No Affiliation,No,High School or Less,Unhoused,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,No,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Missing,No Affiliation,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,Missing,Female,African American / Black,No,Missing,No,High School or Less,Housed,Yes,No,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Missing,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,Yes,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,White Non-Latinx,Yes,Multiparty,Yes,Graduate or Professional Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Female,White Non-Latinx,Yes,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Male,African American / Black,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,No Affiliation,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Missing,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,No,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Male,White Non-Latinx,Yes,Republican,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,African American / Black,No,Missing,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,African American / Black,No,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,Yes,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,Independent,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,65-84,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,84-99,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,Independent,Missing,High School or Less,Unhoused,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Independent,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,18-24,Female,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,45-64,Male,White Non-Latinx,Yes,Republican,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,White Non-Latinx,No,Republican,Yes,College Degree,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,African American / Black,Yes,Missing,Yes,Some College,Housed,No,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,No,Some College,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,White Non-Latinx,No,Democrat,No,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,Missing,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,White Non-Latinx,Yes,Independent,Yes,Graduate or Professional Degree,Housed,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Other,Yes,Missing,Yes,Graduate or Professional Degree,Housed,Yes,No,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,Yes,No Affiliation,No,High School or Less,Housed,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,Yes,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,84-99,Female,Asian,Yes,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,White Non-Latinx,No,Independent,Yes,College Degree,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,45-64,Female,Missing,No,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,Yes,Missing,Yes,College Degree,Housed,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Female,Other,Yes,Democrat,Missing,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Missing,Yes,Democrat,Yes,Some College,Housed,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,Independent,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,White Non-Latinx,Yes,Other,No,Graduate or Professional Degree,Housed,Yes,No,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Female,African American / Black,Yes,Missing,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,No,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,African American / Black,No,Missing,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,18-24,Male,White Non-Latinx,No,Independent,No,High School or Less,Housed,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,African American / Black,No,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,No,High School or Less,Housed,Yes,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,No,No Affiliation,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Asian,Yes,Missing,Yes,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,Hispanic or Latinx,Yes,Republican,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,25-34,Female,White Non-Latinx,Yes,Democrat,Yes,College Degree,Housed,Yes,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,65-84,Female,White Non-Latinx,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Male,African American / Black,Missing,No Affiliation,Yes,High School or Less,Unhoused,Yes,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Independent,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Missing,Yes,Some College,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,35-44,Female,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,18-24,Male,Asian,Yes,No Affiliation,No,High School or Less,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,African American / Black,No,Democrat,Yes,College Degree,Housed,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No
+Majority,Frequent,25-34,Female,African American / Black,Missing,Missing,Yes,College Degree,Housed,No,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,African American / Black,Yes,Democrat,Yes,Missing,Housed,Yes,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,High School or Less,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Around Half,Frequent,25-34,Female,White Non-Latinx,No,Democrat,No,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,White Non-Latinx,No,No Affiliation,No,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Male,African American / Black,Yes,Democrat,Yes,Some College,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Male,White Non-Latinx,No,Democrat,Yes,Graduate or Professional Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,Hispanic or Latinx,No,Democrat,Yes,High School or Less,Housed,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Hispanic or Latinx,No,Democrat,No,High School or Less,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,Asian,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Female,African American / Black,Yes,Democrat,No,Some College,Housed,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,45-64,Female,White Non-Latinx,No,Democrat,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,35-44,Male,White Non-Latinx,Yes,Republican,Yes,College Degree,Housed,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+Always,Frequent,65-84,Female,White Non-Latinx,No,No Affiliation,Yes,College Degree,Housed,Yes,Yes,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
